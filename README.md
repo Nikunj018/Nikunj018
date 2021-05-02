@@ -7,7 +7,7 @@
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
   <p>🌎  I’m availabe for any Design or UI Engineer role</p>
  
-
+---
 <!--
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 -->
@@ -23,6 +23,7 @@
 
 ### Connect with me :
 <a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" /></a>
+
 ---
 ### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Nikunj018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
