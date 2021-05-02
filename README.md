@@ -2,7 +2,7 @@
 
    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
   <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
-  <p>🔭  I’m currently working on a <a href="https://github.com/Twitter-Feedback-System">Twitter Feedback Segregation System</a></p>
+  <p>🔭  I’m currently working on <a href="https://github.com/Twitter-Feedback-System">Twitter Feedback Segregation System</a></p>
   <p>🌱  I’m currently learning Python and Bootstarp</p>
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
   <p>🌎  I’m availabe for any Design or UI Engineer role</p>
