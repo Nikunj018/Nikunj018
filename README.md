@@ -1,15 +1,15 @@
 ## Hi, I'm Nikunj Delavadiya <img align="center" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="32px" height="32px" alt="Wave gif">
----
+
    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
   <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
   <p>🔭  I’m currently working on a <a href="https://github.com/Twitter-Feedback-System">Twitter Feedback Segregation System</a></p>
   <p>🌱  I’m currently learning Bootstarp </p>
 
-  
+---
 <!--
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 -->
-### Skills
+### Skills :
 
 > Languages : &nbsp; <img alt="HTML5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; <img alt="CSS3" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> &nbsp; <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &nbsp; <img alt="Python" align="center" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> &nbsp; <img alt="C" align="center" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> &nbsp; <img alt="C++" align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> &nbsp; <img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
