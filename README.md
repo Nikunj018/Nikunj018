@@ -22,8 +22,7 @@
 > Tools : &nbsp; <img alt="Visual Studio Code" align="center" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> &nbsp; <img alt="PyCharm"  align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> &nbsp; <img alt="Visual Studio" align="center" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> &nbsp; <img alt="NetBeans IDE" align="center" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>  &nbsp; <img alt="Git" align="center" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp; <img alt="Figma" align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### Connect with me :
-<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832"><img alt="Twitter" src="https://img.shields.io/badge/@Nikunj37471832
--%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 ---
 ### Github Stats :
