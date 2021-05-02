@@ -3,9 +3,11 @@
    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
   <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
   <p>🔭  I’m currently working on a <a href="https://github.com/Twitter-Feedback-System">Twitter Feedback Segregation System</a></p>
-  <p>🌱  I’m currently learning Bootstarp </p>
+  <p>🌱  I’m currently learning Python and Bootstarp</p>
+  <p>👬  I’m looking forward to collaborate on different open-source projects</p>
+  <p>🌎  I’m availabe for any Design or UI Engineer role</p>
+ 
 
----
 <!--
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 -->
@@ -20,7 +22,8 @@
 > Tools : &nbsp; <img alt="Visual Studio Code" align="center" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> &nbsp; <img alt="PyCharm"  align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> &nbsp; <img alt="Visual Studio" align="center" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> &nbsp; <img alt="NetBeans IDE" align="center" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>  &nbsp; <img alt="Git" align="center" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp; <img alt="Figma" align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### Connect with me :
-<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>&nbsp; &nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" /></a>
-
+<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832"><img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" /></a>
+---
+### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Nikunj018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
  
