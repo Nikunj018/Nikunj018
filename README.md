@@ -6,7 +6,7 @@
   <p>⚙️  I’m currently working as Web Developer intern and working on ReactJs app<a href="https://github.com/Doctor-Portal"> Doctor's Portal</a></p>
   <p>🌱  I’m currently learning ReactJS and Bootstarp</p>
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
-  <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/1ZUAJO-XH0FffB7qObuP6nHX3QDC3TxRP/view?usp=sharing">Nikunj Delavadiya Resume </a></p>
+  <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/19EhfE8Dl-04F7kRvhFH0M-rz-8vtlUyh/view?usp=sharing">Nikunj Delavadiya Resume </a></p>
 <!--   <p>🌎  I’m availabe for any Design or UI Engineer role</p> -->
  
 ---
