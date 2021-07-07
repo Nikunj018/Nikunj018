@@ -4,7 +4,7 @@
   <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
   <p>🔭  Recently completed project : <a href="https://github.com/Nikunj018/Twitter-Feedback-Segregation-System">Twitter Feedback Segregation System</a></p>
   <p>⚙️  I’m currently working as Web Developer intern and working on ReactJs app<a href="https://github.com/Doctor-Portal"> Doctor's Portal</a></p>
-  <p>🌱  I’m currently learning Python and Bootstarp</p>
+  <p>🌱  I’m currently learning ReactJS</p>
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
   <p>🌎  I’m availabe for any Design or UI Engineer role</p>
  
