@@ -1,5 +1,4 @@
-## Hi, I'm Nikunj Delavadiya <img align="center" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="32px" height="32px" alt="Wave gif">
-
+## Hi, I'm Nikunj Delavadiya 
 <!--    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> -->
  <img align='right' src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif" width="230" />
 <!--   <img align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" width="230" /> -->
