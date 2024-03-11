@@ -1,6 +1,13 @@
-## Hi there, I'm Nikunj Delavadiya 👋
-<!--    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> -->
- <img align='right' src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif" width="230" />
+## Hi there, I'm Nikunj Delavadiya 👋 
+
+
+<!-- <div style="display: flex; align-items: center;">
+  <h2 style="display:inline-block">Hi there, I'm Nikunj Delavadiya</h2>
+  <img align="right" src="./wave.gif" width="100" style="margin-left: 10px; display:inline-block" />
+</div>
+
+    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> -->
+ <img align='right' src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif" width="230"/>
  <p> 👨‍💻 I'm a Web Developer with over 2 years of experience, specializing in ASP.NET Core and Angular technologies.</p>
  <p> 🚀 Currently, I am deeply engaged in the world of web development, enhancing my skills in ASP.NET Core and Angular.</p>
  <p> 🌐 Passionate about creating scalable and efficient web solutions that deliver a seamless user experience.</p>
