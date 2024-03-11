@@ -3,8 +3,9 @@
  <img align='right' src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif" width="230" />
  <p> 👨‍💻 I'm a Web Developer with over 2 years of experience, specializing in ASP.NET Core and Angular technologies.</p>
  <p> 🚀 Currently, I am deeply engaged in the world of web development, enhancing my skills in ASP.NET Core and Angular.</p>
+ <p> 🌐 Passionate about creating scalable and efficient web solutions that deliver a seamless user experience.</p>
  <p> 💬 Open to collaboration! I'm passionate about contributing to open-source projects, and I'm excited about the possibility of working together.</p>
- <p> 📃  Explore my professional journey and educational background in detail through my <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Resume</p>
+ <p> 🎓 Get insights into my career path and educational achievements through my <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Resume</p>
  
 <!-- 📃 Explore my professional journey and educational background in detail through my [Resume](https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing). 
   
