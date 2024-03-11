@@ -7,7 +7,7 @@
   <p>⚙️  I’m currently working as Web Developer intern and working on ASP.NET Core app and Angular.
   <p>🌱  I’m currently learning ASP.NET Core and Angular</p>
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
-  <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing">Nikunj Delavadiya Resume </a></p>
+  <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Nikunj Delavadiya Resume </a></p>
 <!--   <p>🌎  I’m availabe for any Design or UI Engineer role</p> -->
  
 ---
