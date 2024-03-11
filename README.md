@@ -1,6 +1,5 @@
 ## Hi there, I'm Nikunj Delavadiya 👋 
-
-
+      
 <!-- <div style="display: flex; align-items: center;">
   <h2 style="display:inline-block">Hi there, I'm Nikunj Delavadiya</h2>
   <img align="right" src="./wave.gif" width="100" style="margin-left: 10px; display:inline-block" />
