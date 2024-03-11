@@ -1,14 +1,20 @@
-## Hi, I'm Nikunj Delavadiya 
+## Hi there, I'm Nikunj Delavadiya 👋
 <!--    <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /> -->
  <img align='right' src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif" width="230" />
-<!--   <img align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" width="230" /> -->
-  <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
+ <p> 👨‍💻 I'm a Web Developer with over 2 years of experience, specializing in ASP.NET Core and Angular technologies.</p>
+ <p> 🚀 Currently, I am deeply engaged in the world of web development, enhancing my skills in ASP.NET Core and Angular.</p>
+ <p> 💬 Open to collaboration! I'm passionate about contributing to open-source projects, and I'm excited about the possibility of working together.</p>
+ <p> 📃  Explore my professional journey and educational background in detail through my [Resume](https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing).</p>
+ 
+<!-- 📃 Explore my professional journey and educational background in detail through my [Resume](https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing). -->
+  
+ <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
   <p>🔭  Recently completed project : <a href="https://github.com/eCart-Web-Application">eCart - Web application</a></p>
   <p>⚙️  I’m currently working as Web Developer intern and working on ASP.NET Core app and Angular.
   <p>🌱  I’m currently learning ASP.NET Core and Angular</p>
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
   <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Nikunj Delavadiya Resume </a></p>
-<!--   <p>🌎  I’m availabe for any Design or UI Engineer role</p> -->
+
  
 ---
 <!--
