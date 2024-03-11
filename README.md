@@ -45,7 +45,7 @@
           &nbsp; <img alt="Figma" align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### Connect with me :
-<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 ---
 ### Github Stats :
