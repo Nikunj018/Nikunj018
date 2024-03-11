@@ -6,7 +6,7 @@
  <p> 💬 Open to collaboration! I'm passionate about contributing to open-source projects, and I'm excited about the possibility of working together.</p>
  <p> 📃  Explore my professional journey and educational background in detail through my <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Resume</p>
  
-<!-- 📃 Explore my professional journey and educational background in detail through my [Resume](https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing). -->
+<!-- 📃 Explore my professional journey and educational background in detail through my [Resume](https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing). 
   
  <p>🏫  I’m Pursuing my Btech in Computer engineering From Charusat University</p>
   <p>🔭  Recently completed project : <a href="https://github.com/eCart-Web-Application">eCart - Web application</a></p>
@@ -15,7 +15,7 @@
   <p>👬  I’m looking forward to collaborate on different open-source projects</p>
   <p>📃  Check out my resume to know more about my educational qualifications : <a href="https://drive.google.com/file/d/1hbsAJnY5-6QNB8EeKL3k8IXi-fWiPMrO/view?usp=sharing" target="_blank">Nikunj Delavadiya Resume </a></p>
 
- 
+ -->
 ---
 <!--
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
