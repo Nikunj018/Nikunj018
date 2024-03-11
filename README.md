@@ -38,7 +38,7 @@
              &nbsp; <img alt="typescript" align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
 <!--  <img alt=".Net" align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> &nbsp; -->
 <!--  <img alt="C++" align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> &nbsp;  -->
-<!-- > <img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
+<!--  <img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
 
 > Framework/ Library :  &nbsp; <img alt=".net" align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> &nbsp; <img alt="Angular" align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> &nbsp; <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &nbsp; <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -50,9 +50,15 @@
           &nbsp; <img alt="Git" align="center" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
           &nbsp; <img alt="NetBeans IDE" align="center" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
           &nbsp; <img alt="Figma" align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+---
+### Connect with me : 
+<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp; 
+&nbsp;
+<a href="https://twitter.com/Nikunj37471832" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
-### Connect with me :
-<a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp; &nbsp;<a href="https://twitter.com/Nikunj37471832" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
+<!-- Let's connect on <a href="https://www.linkedin.com/in/nikunj-delavadiya-4544b518b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>  for professional insights and <a href="https://twitter.com/Nikunj37471832" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> for tech talk and updates! 🚀 -->
+
 
 ---
 ### Github Stats :
